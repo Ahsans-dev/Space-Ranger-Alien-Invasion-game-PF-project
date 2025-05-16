@@ -34,11 +34,11 @@
 ## 🧠 Code Guidelines
 
 - Fully modular design: `main()` only handles flow
-- OOP concepts and clean structure
+- Clean structure
 - Descriptive function/variable names
 - File I/O for leaderboard and saved progress
 - Clear comments and error handling
-- Object encapsulation and minimal global variables
+- Minimal global variables
 
 ---
 
@@ -49,11 +49,3 @@
 - ASCII Graphics
 - Sleep functions and timers
 
----
-
-## 📂 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/space-ranger-game.git
-   cd space-ranger-game
